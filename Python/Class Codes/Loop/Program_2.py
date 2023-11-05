@@ -1,5 +1,6 @@
 """
 2. Write a Python program that accepts a word from the user and reverses it.
+
 """
 
 word = input("Enter String : ")

@@ -4,6 +4,7 @@
     Expected Output :
     Number of even numbers : 5
     Number of odd numbers : 4
+
 """
 
 number = (1, 2, 3, 4, 5, 6, 7, 8, 9)
