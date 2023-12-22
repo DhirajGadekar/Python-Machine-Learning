@@ -5,3 +5,4 @@ def outer() :
     inner()
 
 outer()
+
